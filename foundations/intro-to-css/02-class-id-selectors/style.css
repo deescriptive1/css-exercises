@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.flexme {
+    background-color: rgb(255, 183, 183);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.vincent{
+        font-size: 24px;
+}
+
+#flex {
+    color: blue;
+    font-size: 36px;
+}
+
+#flexb {
+    background-color: rgb(154, 222, 154);
+    font-weight: bold;
+}
+
