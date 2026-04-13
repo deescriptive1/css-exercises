@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.benz {
+    background-color: rgb(241, 183, 183);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#benzz {
+    color: blue;
+    font-size: 36px;
+}
+
+.benz.car {
+    font-size: 24px;
+}
+
+#benzzz {
+    background-color: rgb(173, 228, 173);
+    font-size: 24px;
+    font-weight: bold;
+}
